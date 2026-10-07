@@ -195,7 +195,7 @@ Mục đích là kiểm tra Response Body có chứa thuộc tính `args`.
 
 **Kết quả Test:**
 
-![API Testing](screenshots/05-test.png)
+![API Testing](screenshots/05-tests.png)
 
 ## 10. Kết quả thực hành
 
