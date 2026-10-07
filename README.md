@@ -64,7 +64,7 @@ API trả về HTTP Status Code `200 OK`.
 
 **Hình ảnh minh họa:**
 
-![GET Request](screenshots/01-test.png)
+![GET Request](screenshots/01-tests.png)
 
 ### 5.2. POST Request
 
@@ -85,7 +85,7 @@ API trả về HTTP Status Code `200 OK`.
 
 **Hình ảnh minh họa:**
 
-![POST Request](screenshots/02-test.png)
+![POST Request](screenshots/02-tests.png)
 
 ### 5.3. PATCH Request
 
@@ -105,7 +105,7 @@ API trả về HTTP Status Code `200 OK`.
 
 **Hình ảnh minh họa:**
 
-![PATCH Request](screenshots/03-test.png)
+![PATCH Request](screenshots/03-tests.png)
 
 ### 5.4. DELETE Request
 
@@ -119,7 +119,7 @@ API trả về HTTP Status Code `200 OK`.
 
 **Hình ảnh minh họa:**
 
-![DELETE Request](screenshots/04-test.png)
+![DELETE Request](screenshots/04-tests.png)
 
 ## 6. Query Parameters
 
@@ -140,7 +140,7 @@ Server nhận được các tham số được truyền trong URL.
 
 **Hình ảnh minh họa:**
 
-![Query Parameters](screenshots/01-test.png)
+![Query Parameters](screenshots/01-tests.png)
 
 ## 7. Headers
 
