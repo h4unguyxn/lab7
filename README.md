@@ -64,7 +64,7 @@ API trả về HTTP Status Code `200 OK`.
 
 **Hình ảnh minh họa:**
 
-![GET Request](screenshots/01-get.png)
+![GET Request](screenshots/01-test.png)
 
 ### 5.2. POST Request
 
@@ -85,7 +85,7 @@ API trả về HTTP Status Code `200 OK`.
 
 **Hình ảnh minh họa:**
 
-![POST Request](screenshots/02-post.png)
+![POST Request](screenshots/02-test.png)
 
 ### 5.3. PATCH Request
 
@@ -105,7 +105,7 @@ API trả về HTTP Status Code `200 OK`.
 
 **Hình ảnh minh họa:**
 
-![PATCH Request](screenshots/03-patch.png)
+![PATCH Request](screenshots/03-test.png)
 
 ### 5.4. DELETE Request
 
@@ -119,7 +119,7 @@ API trả về HTTP Status Code `200 OK`.
 
 **Hình ảnh minh họa:**
 
-![DELETE Request](screenshots/04-delete.png)
+![DELETE Request](screenshots/04-test.png)
 
 ## 6. Query Parameters
 
@@ -140,7 +140,7 @@ Server nhận được các tham số được truyền trong URL.
 
 **Hình ảnh minh họa:**
 
-![Query Parameters](screenshots/01-get.png)
+![Query Parameters](screenshots/01-test.png)
 
 ## 7. Headers
 
@@ -195,7 +195,7 @@ Mục đích là kiểm tra Response Body có chứa thuộc tính `args`.
 
 **Kết quả Test:**
 
-![API Testing](screenshots/05-tests.png)
+![API Testing](screenshots/05-test.png)
 
 ## 10. Kết quả thực hành
 
